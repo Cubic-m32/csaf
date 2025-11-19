@@ -1,5 +1,8 @@
 csaf-tool (0.3.2-1) UNRELEASED; urgency=medium
 
-  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release (Closes: #1121001)
+  * Imported upstream version 0.3.2
+  * Built for internal use and preparation for Debian contribution
+  * No changes to upstream code
 
- -- Arduinum <arduinum628-trixie@unknown>  Mon, 17 Nov 2025 19:44:13 +0300
+ -- Eugene Kaddo <arduinum628@gmail.com>  Mon, 17 Nov 2025 19:44:13 +0300
