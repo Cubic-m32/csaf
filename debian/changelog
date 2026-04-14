@@ -1,4 +1,4 @@
-csaf-tool (0.3.2-1) UNRELEASED; urgency=medium
+csaf-tool (0.3.2-1) unstable; urgency=medium
 
   * Initial release (Closes: #1121001)
   * Imported upstream version 0.3.2
