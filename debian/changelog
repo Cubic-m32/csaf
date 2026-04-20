@@ -1,0 +1,8 @@
+csaf-tool (0.3.2-1) unstable; urgency=medium
+
+  * Initial release
+  * Imported upstream version 0.3.2
+  * Built for internal use and preparation for Debian contribution
+  * No changes to upstream code
+
+ -- Eugene Kaddo <arduinum628@gmail.com>  Mon, 17 Nov 2025 19:44:13 +0300
